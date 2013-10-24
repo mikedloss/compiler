@@ -1,7 +1,9 @@
 compiler
 ========
 
-this is a simple compiler that compiles one language into another
+this is a simple compiler that compiles one language into another.
+
+created as a group project.
 
 language grammar:
 <br />
